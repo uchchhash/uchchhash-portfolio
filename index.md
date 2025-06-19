@@ -412,8 +412,6 @@ Recognized for contributions in the paper "**Advanced UVM-Based Chip Verificatio
 
 ---
 
-## 👨‍🏫 Mentorship & Training
-
 ## 🧑‍🏫 Mentorship & Training
 
 <details>
