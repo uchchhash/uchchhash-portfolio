@@ -273,80 +273,111 @@ Recognized for contributions in the paper "**Advanced UVM-Based Chip Verificatio
 <details>
 <summary>🧪 <strong>Functional Verification</strong></summary>
 
-- Constraint Random Testbenches  
-- Coverage-Driven Verification  
-- Assertion-Based Verification (ABV)  
-- Co-Simulation  
-- Gate-Level Simulation (GLS)  
-- Behavioral & Real-Number Modeling (RNM)  
-- Mixed-Signal Verification  
+<ul>
+  <li>Constraint Random Testbenches</li>
+  <li>Coverage-Driven Verification</li>
+  <li>Assertion-Based Verification (ABV)</li>
+  <li>Co-Simulation</li>
+  <li>Gate-Level Simulation (GLS)</li>
+  <li>Behavioral & Real-Number Modeling (RNM)</li>
+  <li>Mixed-Signal Verification</li>
+</ul>
 
 </details>
+
+
 
 <details>
 <summary>🔧 <strong>RTL Design</strong></summary>
 
-- FSM Design  
-- Sequential & Combinational Logic Design  
-- High-Level Synthesis (HLS)  
+<ul>
+  <li>FSM Design</li>
+  <li>Sequential & Combinational Logic Design</li>
+  <li>High-Level Synthesis (HLS)</li>
+</ul>
 
 </details>
+
+
 
 <details>
 <summary>🧰 <strong>EDA Tools</strong></summary>
 
-- Cadence (Xcelium, Virtuoso, IMC, vManager)  
-- Synopsys (Verdi, VCS)  
-- Xilinx (Vivado, Vitis-HLS)  
+<ul>
+  <li>Cadence (Xcelium, Virtuoso, IMC, vManager)</li>
+  <li>Synopsys (Verdi, VCS)</li>
+  <li>Xilinx (Vivado, Vitis-HLS)</li>
+</ul>
 
 </details>
+
+
 
 <details>
 <summary>📡 <strong>Protocols & Interfaces</strong></summary>
 
-- AMBA (APB, AHB, AXI)  
-- SPI, I2C, UART  
-- DFI, DDR, HBM4 PHY  
+<ul>
+  <li>AMBA (APB, AHB, AXI)</li>
+  <li>SPI, I2C, UART</li>
+  <li>DFI, DDR, HBM4 PHY</li>
+</ul>
 
 </details>
+
+
 
 <details>
 <summary>💻 <strong>Hardware Description Languages</strong></summary>
 
-- Verilog  
-- SystemVerilog  
-- SystemVerilog Assertions (SVA)  
-- Verilog-AMS  
-- UVM  
+<ul>
+  <li>Verilog</li>
+  <li>SystemVerilog</li>
+  <li>SystemVerilog Assertions (SVA)</li>
+  <li>Verilog-AMS</li>
+  <li>UVM</li>
+</ul>
 
 </details>
+
+
 
 <details>
 <summary>💡 <strong>Programming & Scripting</strong></summary>
 
-- C++  
-- Python  
-- Bash  
+<ul>
+  <li>C++</li>
+  <li>Python</li>
+  <li>Bash</li>
+</ul>
 
 </details>
+
+
 
 <details>
 <summary>🤖 <strong>ML & Computer Vision</strong></summary>
 
-- Supervised Learning  
-- Neural Networks  
-- CNNs (YOLO)  
-- Scikit-learn, Matplotlib, Seaborn  
+<ul>
+  <li>Supervised Learning</li>
+  <li>Neural Networks</li>
+  <li>CNNs (YOLO)</li>
+  <li>Scikit-learn, Matplotlib, Seaborn</li>
+</ul>
 
 </details>
+
+
 
 <details>
 <summary>📁 <strong>Version Control & Collaboration</strong></summary>
 
-- Git, Perforce  
-- JIRA, Confluence  
+<ul>
+  <li>Git, Perforce</li>
+  <li>JIRA, Confluence</li>
+</ul>
 
 </details>
+
 
 
 ---
