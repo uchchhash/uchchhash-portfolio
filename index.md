@@ -20,18 +20,19 @@
 <details>
 <summary><strong>📘 Relevant Coursework & Grades</strong></summary>
 
-  
-- VLSI I & Lab – A+, A+ (4.00)  
-- VLSI II & Lab – A+, A+ (4.00)  
-- Computer Architecture – A+ (4.00)  
-- Microprocessor & System Design & Lab – A+, A+ (4.00)  
-- Digital Logic Design – A+ (4.00)  
-- Digital Signal Processing I & Lab – A+, A+ (4.00)  
-- Analog Integrated Circuit – A (3.75)  
-- Project & Thesis – A+ (4.00)  
-
+<ul>
+  <li>VLSI I & Lab – A+, A+ (4.00)</li>
+  <li>VLSI II & Lab – A+, A+ (4.00)</li>
+  <li>Computer Architecture – A+ (4.00)</li>
+  <li>Microprocessor & System Design & Lab – A+, A+ (4.00)</li>
+  <li>Digital Logic Design – A+ (4.00)</li>
+  <li>Digital Signal Processing I & Lab – A+, A+ (4.00)</li>
+  <li>Analog Integrated Circuit – A (3.75)</li>
+  <li>Project & Thesis – A+ (4.00)</li>
+</ul>
 
 </details>
+
 
 
 ---
