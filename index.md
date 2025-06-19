@@ -48,9 +48,9 @@
   <li>Ensuring design compliance through collaboration with global DV teams.</li>
 </ul>
 
+<br> <!-- Add a visual gap -->
 </details>
 
-<br> <!-- Add a visual gap -->
 
 <details>
 <summary><strong>Senior Engineer – Design Verification, Silicon Engineering Department</strong><br><em>Ulkasemi Private Limited, Dhaka, Bangladesh</em><br><strong>Duration:</strong> Dec 2021 – Present</summary>
@@ -62,6 +62,7 @@
   <li>Leading technical recruitment and conducting training on HDL, testbench development, and verification methodologies to align new hires with industry standards.</li>
 </ul>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 
@@ -94,9 +95,8 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <p><strong>Result:</strong> Successfully implemented PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
-
-
 
 <details>
 <summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR54x interfaces, ensuring protocol compliance and scalability.</summary>
@@ -111,6 +111,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <p><strong>Result:</strong> Delivered a scalable and reusable coverage checker, significantly improving verification efficiency for multiple DDR/LPDDR designs.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 <details>
@@ -125,6 +126,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <p><strong>Result:</strong> Verified OTP and clock/reset functionalities, resolved design bugs, and achieved 100% functional coverage.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 <details>
@@ -139,6 +141,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <p><strong>Result:</strong> Achieved 100% functional and code coverage, ensuring thorough protocol verification and compliance with design specifications.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 ### 💻 Digital Design and Functional Verification
@@ -156,6 +159,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <p><strong>Result:</strong> Verified protocol conversion and CDC logic via simulation; achieved full code and functional coverage.<br>
 <em>*Synthesis and timing closure were not within the scope of this project.*</em></p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 <details>
@@ -169,6 +173,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <p><strong>Result:</strong> Completed RTL design and functional verification of all modules, reinforcing skills in FSM design, RTL coding, and SV-based verification.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 
@@ -187,6 +192,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <p><strong>Result:</strong> Delivered validated DMS models and reduced simulation time by 90%, enabling efficient co-simulation and verification.  
 Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verification Methodologies with Full Analog Functionality.</em>"</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 <details>
@@ -201,6 +207,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <p><strong>Result:</strong> Delivered validated RNM models, Verilog-AMS testbenches, and verified schematics, ensuring accurate digital-analog integration, improved AMS verification coverage, and significantly reduced simulation time.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 
@@ -218,6 +225,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <p><strong>Result:</strong> Delivered a fully functional prototype combining deep learning, computer vision, and full-stack web integration, gaining hands-on experience in end-to-end AI system deployment.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 <details>
@@ -232,6 +240,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <p><strong>Result:</strong> Developed validated ML models and demonstrated end-to-end workflows from data processing to evaluation.</p>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 
@@ -361,6 +370,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 - Gained expertise in designing, debugging, and implementing combinational and sequential circuits on FPGAs using C++.  
 - Utilized Xilinx Vitis-HLS and Vivado to generate RTL IPs, develop C-based testbenches, and simulate designs for functional verification.  
 
+<br> <!-- Add a visual gap -->
 </details>
 
 <details>
@@ -369,6 +379,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 *DeepLearning.AI on Coursera, Sept 2020* | [Certificate](#)  
 - Covered deep learning fundamentals, artificial neural networks, backpropagation, and network architectures.  
 
+<br> <!-- Add a visual gap -->
 </details>
 
 <details>
@@ -377,6 +388,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 *Quantum.ai, Bangladesh, June 2021* | [Certificate](#)  
 - Explored Python programming, statistics, web scraping, data preprocessing, analysis, and supervised machine learning.  
 
+<br> <!-- Add a visual gap -->
 </details>
 
 
@@ -393,9 +405,8 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
   <li>Guided students in testbench development and adoption of industry-standard VLSI methodologies.</li>
 </ul>
 
+<br> <!-- Add a visual gap -->
 </details>
-
-<br>
 
 <details>
 <summary>🛠️ <strong>Technical Recruitment & Training</strong><br><em>Ulkasemi Private Limited, Dhaka, Bangladesh</em></summary>
@@ -405,6 +416,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
   <li>Conducted structured onboarding sessions covering HDL, testbench development, and verification flows.</li>
 </ul>
 
+<br> <!-- Add a visual gap -->
 </details>
 
 ---
