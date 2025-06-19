@@ -414,24 +414,31 @@ Recognized for contributions in the paper "**Advanced UVM-Based Chip Verificatio
 
 ## 👨‍🏫 Mentorship & Training
 
-<details>
-<summary><strong>🧑‍🏫 Instructor – VLSI Training Academy</strong></summary>
+## 🧑‍🏫 Mentorship & Training
 
-*United International University, Dhaka, Bangladesh*  
-- Conducted training on HDL, SystemVerilog, and Verilog.  
-- Taught RTL design flow covering synthesis, simulation, and verification.  
-- Guided students in testbench development and adoption of industry-standard VLSI methodologies.  
+<details>
+<summary>📚 <strong>Instructor – VLSI Training Academy</strong><br><em>United International University, Dhaka, Bangladesh</em></summary>
+
+<ul>
+  <li>Conducted training on HDL, SystemVerilog, and Verilog.</li>
+  <li>Taught RTL design flow covering synthesis, simulation, and verification.</li>
+  <li>Guided students in testbench development and adoption of industry-standard VLSI methodologies.</li>
+</ul>
 
 </details>
 
-<details>
-<summary><strong>🛠️ Technical Recruitment & Training</strong></summary>
+<br>
 
-*Ulkasemi Private Limited, Dhaka, Bangladesh*  
-- Developed recruitment assessments and led technical interviews on SystemVerilog, RTL design, and VLSI fundamentals.  
-- Conducted structured onboarding sessions covering HDL, testbench development, and verification flows.  
+<details>
+<summary>🛠️ <strong>Technical Recruitment & Training</strong><br><em>Ulkasemi Private Limited, Dhaka, Bangladesh</em></summary>
+
+<ul>
+  <li>Developed recruitment assessments and led technical interviews on SystemVerilog, RTL design, and VLSI fundamentals.</li>
+  <li>Conducted structured onboarding sessions covering HDL, testbench development, and verification flows.</li>
+</ul>
 
 </details>
+
 
 
 ---
