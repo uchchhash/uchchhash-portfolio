@@ -50,6 +50,8 @@
 
 </details>
 
+<br> <!-- Add a visual gap -->
+
 <details>
 <summary><strong>Senior Engineer – Design Verification, Silicon Engineering Department</strong><br><em>Ulkasemi Private Limited, Dhaka, Bangladesh</em><br><strong>Duration:</strong> Dec 2021 – Present</summary>
 
@@ -61,6 +63,7 @@
 </ul>
 
 </details>
+
 
 
 
