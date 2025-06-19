@@ -84,7 +84,8 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <details>
 <summary><strong>✅ Functional Verification of HBM4 PHY Layer</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Implement and verify HBM4 PHY initialization and training sequences for mission mode readiness.</summary>
-<p><strong>Contributions:</strong><br>
+
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Implemented key initialization steps, including power-up, clock setup, CSR configuration, and PHY initialization.</li>
   <li>Analyzed specifications to determine correct sequences for lane repair, impedance calibration, and training.</li>
@@ -94,6 +95,8 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <p><strong>Result:</strong> Successfully implemented PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.</p>
 
 </details>
+
+
 
 <details>
 <summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR54x interfaces, ensuring protocol compliance and scalability.</summary>
