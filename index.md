@@ -39,20 +39,30 @@
 
 ## 💼 Professional Experience
 
-**Contingent Worker – Contracted to Synopsys, Inc.**  
-*Ulkasemi Private Limited, Dhaka, Bangladesh*  
-📅 **Duration:** Mar 2024 – Present  
-- Contributing to RTL design verification, focusing on high-speed protocols such as LPDDR and HBM.
-- Conducting debugging, coverage analysis, and protocol checks to ensure design compliance with specifications.
-- Ensuring design compliance through collaboration with global DV teams.
+<details>
+<summary><strong>Contingent Worker – Contracted to Synopsys, Inc.</strong><br><em>Ulkasemi Private Limited, Dhaka, Bangladesh</em><br><strong>Duration:</strong> Mar 2024 – Present</summary>
 
-**Senior Engineer – Design Verification, Silicon Engineering Department**  
-*Ulkasemi Private Limited, Dhaka, Bangladesh*  
-📅 **Duration:** Dec 2021 – Present  
-- Developing test plans, implementing self-checking testbenches, and conducting debugging, coverage analysis, and protocol verification for IP-level RTL designs using SystemVerilog and UVM.
-- Modeling and validating mixed-signal designs by creating self-checking testbenches and verifying schematics against design specifications.
-- Designing synthesizable RTL modules and control logic for interface and sequential systems, aligned with protocol specifications.
-- Leading technical recruitment and conducting training on HDL, testbench development, and verification methodologies to align new hires with industry standards.
+<ul>
+  <li>Contributing to RTL design verification, focusing on high-speed protocols such as LPDDR and HBM.</li>
+  <li>Conducting debugging, coverage analysis, and protocol checks to ensure design compliance with specifications.</li>
+  <li>Ensuring design compliance through collaboration with global DV teams.</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>Senior Engineer – Design Verification, Silicon Engineering Department</strong><br><em>Ulkasemi Private Limited, Dhaka, Bangladesh</em><br><strong>Duration:</strong> Dec 2021 – Present</summary>
+
+<ul>
+  <li>Developing test plans, implementing self-checking testbenches, and conducting debugging, coverage analysis, and protocol verification for IP-level RTL designs using SystemVerilog and UVM.</li>
+  <li>Modeling and validating mixed-signal designs by creating self-checking testbenches and verifying schematics against design specifications.</li>
+  <li>Designing synthesizable RTL modules and control logic for interface and sequential systems, aligned with protocol specifications.</li>
+  <li>Leading technical recruitment and conducting training on HDL, testbench development, and verification methodologies to align new hires with industry standards.</li>
+</ul>
+
+</details>
+
+
 
 ---
 
