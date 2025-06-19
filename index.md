@@ -404,8 +404,6 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 </details>
 
-
-
 ---
 
 ## 🌐 Language Proficiency
