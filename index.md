@@ -95,37 +95,10 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 </details>
 
-
-
-
-
 <details>
-<summary><strong>✅ Functional Verification of HBM4 PHY Layer</strong></summary>
+<summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR54x interfaces, ensuring protocol compliance and scalability.</summary>
 
-<em>Organization: Synopsys Inc</em>  
-<strong>Objective:</strong> Implement and verify HBM4 PHY initialization and training sequences for mission mode readiness.
-
-<ul>
-  <li>Implemented key initialization steps, including power-up, clock setup, CSR configuration, and PHY initialization.</li>
-  <li>Analyzed specifications to determine correct sequences for lane repair, impedance calibration, and training.</li>
-  <li>Debugged and resolved design issues through collaboration with designers.</li>
-</ul>
-
-<p><strong>Result:</strong> Successfully implemented PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.</p>
-
-</details>
-
-
-
-
-
-<details>
-<summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong></summary>
-
-**Organization:** Synopsys Inc | 📅 Duration: Apr 2024 – Present  
-**Objective:** Develop a portable functional coverage checker for LPDDR54x interfaces, ensuring protocol compliance and scalability.  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Implemented illegal bin coverage for LPDDR4 and LPDDR5, focusing on critical scenarios such as frequency changes, low power states, snooping, and sideband operations.</li>
   <li>Developed a modular architecture using macros to support incremental updates and compatibility across DDR/LPDDR IPs, including LPDDR6.</li>
@@ -133,154 +106,131 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
   <li>Currently working on extending coverage for additional scenarios as part of the ongoing project.</li>
 </ul>
 
-**Result:** Delivered a scalable and reusable coverage checker, significantly improving verification efficiency for multiple DDR/LPDDR designs.
+<p><strong>Result:</strong> Delivered a scalable and reusable coverage checker, significantly improving verification efficiency for multiple DDR/LPDDR designs.</p>
 
 </details>
 
 <details>
-<summary><strong>✅ Functional Verification of OTP and Clock/Reset Modules in a USB PD Controller</strong></summary>
+<summary><strong>✅ Functional Verification of OTP and Clock/Reset Modules in a USB PD Controller</strong><br><em><strong>Organization:</strong> Texas Instruments</em><br><strong>Objective:</strong> Verify OTP operations and clock/reset functionalities in a USB Power Delivery (PD) controller to ensure compliance with design specifications.</summary>
 
-**Organization:** Texas Instruments  
-**Objective:** Verify OTP operations and clock/reset functionalities in a USB Power Delivery (PD) controller to ensure compliance with design specifications.  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Verified OTP operations, including read, burn, and standby, achieving comprehensive functional coverage.</li>
   <li>Developed UVM testbench components and implemented SystemVerilog assertions for critical timing and state transitions.</li>
   <li>Debugged clock/reset sequences for power-on reset (POR) and soft reset functionality, resolving design issues collaboratively with the design team.</li>
 </ul>
 
-**Result:** Verified OTP and clock/reset functionalities, resolved design bugs, and achieved 100% functional coverage.
+<p><strong>Result:</strong> Verified OTP and clock/reset functionalities, resolved design bugs, and achieved 100% functional coverage.</p>
 
 </details>
 
 <details>
-<summary><strong>✅ Functional Verification of Standard Bus Protocol IPs </strong></summary>
+<summary><strong>✅ Functional Verification of Standard Bus Protocol IPs</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Develop UVM-based environments to verify protocol-specific IPs (APB, AHB, AXI, I2C, SPI, UART).</summary>
 
-**Organization:** Ulkasemi Internal  
-**Objective:** Develop UVM-based environments to verify protocol-specific IPs.  
-**Protocols:** APB, AHB, AXI, I2C, SPI, UART  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Extracted design features from specifications and developed testbenches with protocol-specific agents, BFMs (drivers/monitors), test cases, assertions, and coverage plans.</li>
   <li>Implemented constrained random testing and developed corner-case scenarios to validate all functional aspects.</li>
   <li>Verified protocol sequences using SystemVerilog assertions for robustness and compliance.</li>
 </ul>
 
-**Result:** Achieved 100% functional and code coverage, ensuring thorough protocol verification and compliance with design specifications.
+<p><strong>Result:</strong> Achieved 100% functional and code coverage, ensuring thorough protocol verification and compliance with design specifications.</p>
 
 </details>
 
 ### 💻 Digital Design and Functional Verification
 
 <details>
-<summary><strong>✅ RTL Design and Functional Verification of AHB to APB Bridge</strong></summary>
+<summary><strong>✅ RTL Design and Functional Verification of AHB to APB Bridge</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Design and verify an AHB to APB protocol bridge to enable communication between high-speed AHB and low-speed APB peripherals in SoC systems.</summary>
 
-**Organization:** Ulkasemi Internal  
-**Objective:** Design and verify an AHB to APB protocol bridge to enable communication between high-speed AHB and low-speed APB peripherals in SoC systems.  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Developed RTL for AHB slave and APB master using Verilog, with control FSMs and asynchronous dual-clock FIFOs for CDC (400 MHz ↔ 100 MHz).</li>
   <li>Built a UVM-based testbench with reusable agents, sequencers, monitors, and config classes.</li>
   <li>Created directed and randomized tests for protocol correctness, invalid accesses, and transfer edge cases.</li>
 </ul>
 
-**Result:** Verified protocol conversion and CDC logic via simulation; achieved full code and functional coverage.  
-*Synthesis and timing closure were not within the scope of this project.*
+<p><strong>Result:</strong> Verified protocol conversion and CDC logic via simulation; achieved full code and functional coverage.<br>
+<em>*Synthesis and timing closure were not within the scope of this project.*</em></p>
 
 </details>
 
 <details>
-<summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules </strong></summary>
+<summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Design and verify sequential digital modules using Verilog and SystemVerilog. (Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register)</summary>
 
-**Organization:** Ulkasemi Internal  
-**Objective:** Design and verify sequential digital modules using Verilog and SystemVerilog.  
-**Modules:** Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Designed synthesizable RTL for a binary counter, shift register, and FSM-based traffic light controller.</li>
   <li>Built modular testbenches with reusable components; verified functionality using directed and randomized tests with full coverage.</li>
 </ul>
 
-**Result:** Completed RTL design and functional verification of all modules, reinforcing skills in FSM design, RTL coding, and SV-based verification.
+<p><strong>Result:</strong> Completed RTL design and functional verification of all modules, reinforcing skills in FSM design, RTL coding, and SV-based verification.</p>
 
 </details>
+
 
 ### 🎛️ Mixed-Signal Modeling & AMS Verification
 
 <details>
-<summary><strong>✅ Development and Integration of DMS Models and Testbench for SoC Verification</strong></summary>
+<summary><strong>✅ Development and Integration of DMS Models and Testbench for SoC Verification</strong><br><em><strong>Organization:</strong> Designer’s Guide</em><br><strong>Objective:</strong> Develop and integrate DMS models for analog-digital co-simulation.</summary>
 
-**Organization:** Designer’s Guide  
-**Objective:** Develop and integrate DMS models for analog-digital co-simulation.  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Built discrete mixed-signal (DMS) models for blocks such as PLL, PMIC, and data converters using Real-Number Modeling (RNM) and User-Defined Nettypes (UDN).</li>
   <li>Validated analog models against schematics using Verilog-AMS testbenches to ensure functional accuracy.</li>
   <li>Integrated DMS models into a UVM-based testbench for seamless analog-digital verification.</li>
 </ul>
 
-**Result:** Delivered validated DMS models and reduced simulation time by 90%, enabling efficient co-simulation and verification.  
-Recognized for contributions in the paper "**Advanced UVM-Based Chip Verification Methodologies with Full Analog Functionality.**"
+<p><strong>Result:</strong> Delivered validated DMS models and reduced simulation time by 90%, enabling efficient co-simulation and verification.  
+Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verification Methodologies with Full Analog Functionality.</em>"</p>
 
 </details>
 
 <details>
-<summary><strong>✅ Behavioral Modeling and AMS Verification of SoC Subsystems</strong></summary>
+<summary><strong>✅ Behavioral Modeling and AMS Verification of SoC Subsystems</strong><br><em><strong>Organizations:</strong> SigmaSense, ETA Wireless</em><br><strong>Objective:</strong> To develop and verify analog IPs in a touch controller and a wireless baseband generator using Real-Number Modeling and Verilog-AMS, enabling efficient mixed-signal simulation and seamless integration in SoC subsystems.</summary>
 
-**Organizations:** SigmaSense, ETA Wireless  
-**Objective:** To develop and verify analog IPs in a touch controller and a wireless baseband generator using Real-Number Modeling and Verilog-AMS, enabling efficient mixed-signal simulation and seamless integration in SoC subsystems.  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Developed behavioral models for a wide range of analog components—including Power-on Reset (POR), Thermal Shutdown Detect (TSD), Ultra-Low Voltage Detect (UVLO), Bias Circuits, LDO, Bandgap Reference (BGR), Data Converters, Oscillators, and Clock Generators using SystemVerilog RNM and Verilog-AMS.</li>
   <li>Created self-checking Verilog-AMS testbenches to validate model behavior against design specifications and schematic functionality.</li>
   <li>Verified power-up sequences and ensured functional accuracy through mixed-signal co-simulation, enabling seamless SoC subsystem integration.</li>
 </ul>
 
-**Result:** Delivered validated RNM models, Verilog-AMS testbenches, and verified schematics, ensuring accurate digital-analog integration, improved AMS verification coverage, and significantly reduced simulation time.
+<p><strong>Result:</strong> Delivered validated RNM models, Verilog-AMS testbenches, and verified schematics, ensuring accurate digital-analog integration, improved AMS verification coverage, and significantly reduced simulation time.</p>
 
 </details>
+
 
 ### 🧠 Applied Machine Learning & Computer Vision
 
 <details>
-<summary><strong>🎯 Crowd Density Monitoring for COVID-Aware Navigation Using YOLOv4-Based Real-Time Object Detection </strong></summary>
+<summary><strong>🎯 Crowd Density Monitoring for COVID-Aware Navigation Using YOLOv4-Based Real-Time Object Detection</strong><br><em><strong>Organization:</strong> Ahsanullah University of Science and Technology (Undergrad Capstone Project)</em><br><strong>Objective:</strong> Develop a real-time people detection system using YOLOv4 to monitor crowd density in public spaces and promote safer navigation during the COVID-19 pandemic.</summary>
 
-**Organization:** Ahsanullah University of Science and Technology (**Undergrad Capstone Project**)  
-**Objective:** Develop a real-time people detection system using YOLOv4 to monitor crowd density in public spaces and promote safer navigation during the COVID-19 pandemic.  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Trained and optimized a YOLOv4-based deep learning model to detect individuals in video streams.</li>
   <li>Integrated the detection system into a web-based interface for real-time visualization of crowd density.</li>
   <li>Implemented a pipeline for data acquisition, model inference, and user-facing visualization to support social distancing.</li>
 </ul>
 
-**Result:** Delivered a fully functional prototype combining deep learning, computer vision, and full-stack web integration, gaining hands-on experience in end-to-end AI system deployment.
+<p><strong>Result:</strong> Delivered a fully functional prototype combining deep learning, computer vision, and full-stack web integration, gaining hands-on experience in end-to-end AI system deployment.</p>
 
 </details>
 
 <details>
-<summary><strong>🎯 Predictive Modelling Using Supervised Learning Techniques</strong></summary>
+<summary><strong>🎯 Predictive Modelling Using Supervised Learning Techniques</strong><br><em><strong>Organization:</strong> Quantum.AI, BD</em><br><strong>Objective:</strong> Apply supervised machine learning algorithms to solve regression and classification problems using real-world datasets.</summary>
 
-**Organization:** Quantum.AI, BD  
-**Objective:** Apply supervised machine learning algorithms to solve regression and classification problems using real-world datasets.  
-
-**Contributions:**  
+<p><strong>Contributions:</strong><br></p>
 <ul>
   <li>Preprocessed and analyzed datasets (bike sharing, Titanic) using Pandas and Seaborn.</li>
   <li>Built regression and classification models (Linear/Logistic Regression, Random Forest, KNN) with Scikit-learn.</li>
   <li>Evaluated performance with RMSE, R², Accuracy, and visualized model behavior.</li>
 </ul>
 
-**Result:** Developed validated ML models and demonstrated end-to-end workflows from data processing to evaluation.
+<p><strong>Result:</strong> Developed validated ML models and demonstrated end-to-end workflows from data processing to evaluation.</p>
 
 </details>
+
 
 
 ---
