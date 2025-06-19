@@ -71,9 +71,9 @@
 
 ## 📄 Publication
 
-**Noman, M. A. N., Majumder, P., Sarkar, U., & Karmaker, S.** (2023).  
-*Optimizing Threshold Voltage Performance in AlGaN/GaN MIS-HEMTs through GaON Integration*.  
-Presented at the **9th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE)**.  
+Noman, M. A. N., Majumder, P., **Sarkar, U**., & Karmaker, S. (2023).  
+***Optimizing Threshold Voltage Performance in AlGaN/GaN MIS-HEMTs through GaON Integration***.  
+Presented at the 9th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE).  
 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10456403)
 
 ---
