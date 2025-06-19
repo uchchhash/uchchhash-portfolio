@@ -243,44 +243,83 @@ Recognized for contributions in the paper "**Advanced UVM-Based Chip Verificatio
 ## 🛠️ Technical Skills
 
 <details>
-<summary><strong>🧪 Functional Verification</strong></summary>
-Constraint Random Testbenches, Coverage-Driven Verification, Assertion-Based Verification (ABV), Co-Simulation, Gate-Level Simulation (GLS), Behavioral & Real-Number Modeling (RNM), Mixed-Signal Verification  
+<summary>🧪 <strong>Functional Verification</strong></summary>
+
+- Constraint Random Testbenches  
+- Coverage-Driven Verification  
+- Assertion-Based Verification (ABV)  
+- Co-Simulation  
+- Gate-Level Simulation (GLS)  
+- Behavioral & Real-Number Modeling (RNM)  
+- Mixed-Signal Verification  
+
 </details>
 
 <details>
-<summary><strong>🔧 RTL Design</strong></summary>
-FSM Design, Sequential & Combinational Logic Design, High-Level Synthesis (HLS)  
+<summary>🔧 <strong>RTL Design</strong></summary>
+
+- FSM Design  
+- Sequential & Combinational Logic Design  
+- High-Level Synthesis (HLS)  
+
 </details>
 
 <details>
-<summary><strong>🧰 EDA Tools</strong></summary>
-Cadence (Xcelium, Virtuoso, IMC, vManager), Synopsys (Verdi, VCS), Xilinx (Vivado, Vitis-HLS)  
+<summary>🧰 <strong>EDA Tools</strong></summary>
+
+- Cadence (Xcelium, Virtuoso, IMC, vManager)  
+- Synopsys (Verdi, VCS)  
+- Xilinx (Vivado, Vitis-HLS)  
+
 </details>
 
 <details>
-<summary><strong>📡 Protocols & Interfaces</strong></summary>
-AMBA (APB, AHB, AXI), SPI, I2C, UART, DFI, DDR, HBM4 PHY  
+<summary>📡 <strong>Protocols & Interfaces</strong></summary>
+
+- AMBA (APB, AHB, AXI)  
+- SPI, I2C, UART  
+- DFI, DDR, HBM4 PHY  
+
 </details>
 
 <details>
-<summary><strong>💻 Hardware Description Languages</strong></summary>
-Verilog, SystemVerilog, SystemVerilog Assertions (SVA), Verilog-AMS, UVM  
+<summary>💻 <strong>Hardware Description Languages</strong></summary>
+
+- Verilog  
+- SystemVerilog  
+- SystemVerilog Assertions (SVA)  
+- Verilog-AMS  
+- UVM  
+
 </details>
 
 <details>
-<summary><strong>💡 Programming & Scripting</strong></summary>
-C++, Python, Bash  
+<summary>💡 <strong>Programming & Scripting</strong></summary>
+
+- C++  
+- Python  
+- Bash  
+
 </details>
 
 <details>
-<summary><strong>🤖 ML & Computer Vision</strong></summary>
-Supervised Learning, Neural Networks, CNNs (YOLO), Scikit-learn, Matplotlib, Seaborn  
+<summary>🤖 <strong>ML & Computer Vision</strong></summary>
+
+- Supervised Learning  
+- Neural Networks  
+- CNNs (YOLO)  
+- Scikit-learn, Matplotlib, Seaborn  
+
 </details>
 
 <details>
-<summary><strong>🧾 Version Control & Collaboration</strong></summary>
-Git, Perforce, JIRA, Confluence  
+<summary>📁 <strong>Version Control & Collaboration</strong></summary>
+
+- Git, Perforce  
+- JIRA, Confluence  
+
 </details>
+
 
 ---
 
