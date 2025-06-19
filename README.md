@@ -120,9 +120,10 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 <details>
 <summary><strong>✅ Functional Verification of Standard Bus Protocol IPs </strong></summary>
 
-**Organization:** Ulkasemi Internal
-**Protocols:** APB, AHB, AXI, I2C, SPI, UART
+**Organization:** Ulkasemi Internal  
 **Objective:** Develop UVM-based environments to verify protocol-specific IPs.  
+**Protocols:** APB, AHB, AXI, I2C, SPI, UART
+
 
 **Contributions:**
 - Extracted design features from specifications and developed testbenches with protocol-specific agents, BFMs (drivers/monitors), test cases, assertions, and coverage plans.  
@@ -158,8 +159,8 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 <summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules </strong></summary>
 
 **Organization:** Ulkasemi Internal  
-**Objective:** Design and verify sequential digital modules using Verilog and SystemVerilog. 
-**Modules:** Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register 
+**Objective:** Design and verify sequential digital modules using Verilog and SystemVerilog.  
+**Modules:** Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register  
 
 **Contributions:**
 - Designed synthesizable RTL for a binary counter, shift register, and FSM-based traffic light controller.  
@@ -211,7 +212,7 @@ Recognized for contributions in the paper "**Advanced UVM-Based Chip Verificatio
 <details>
 <summary><strong>🎯 Crowd Density Monitoring for COVID-Aware Navigation Using YOLOv4-Based Real-Time Object Detection </strong></summary>
 
-**Organization:** Ahsanullah University of Science and Technology (**Undergrad Capstone Project**)
+**Organization:** Ahsanullah University of Science and Technology (**Undergrad Capstone Project**)  
 **Objective:** Develop a real-time people detection system using YOLOv4 to monitor crowd density in public spaces and promote safer navigation during the COVID-19 pandemic.  
 
 **Contributions:**
