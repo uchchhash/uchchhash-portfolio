@@ -7,6 +7,7 @@
 🔗 [GitHub](https://github.com/uchchhash)
 🔗 [ResearchGate](https://www.researchgate.net/profile/Uchchhash_Sarkar)
 
+---
 
 ## 🎓 Academic Credentials
 
@@ -30,7 +31,7 @@
 
 </details>
 
-
+---
 
 ## 💼 Professional Experience
 
@@ -49,6 +50,7 @@
 - Designing synthesizable RTL modules and control logic for interface and sequential systems, aligned with protocol specifications.
 - Leading technical recruitment and conducting training on HDL, testbench development, and verification methodologies to align new hires with industry standards.
 
+---
 
 ## 📄 Publication
 
@@ -57,10 +59,10 @@
 Presented at the **9th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE)**.  
 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10456403)
 
+---
 
 ## 🧪 Selected Projects
 
----
 
 ### 🔌 High-Speed Interface and Protocol Verification
 
@@ -131,8 +133,6 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 </details>
 
 
----
-
 ### 💻 Digital Design and Functional Verification
 
 <details>
@@ -167,8 +167,6 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 
 </details>
 
-
----
 
 ### 🎛️ Mixed-Signal Modeling & AMS Verification
 
@@ -206,8 +204,6 @@ Recognized for contributions in the paper "**Advanced UVM-Based Chip Verificatio
 </details>
 
 
----
-
 ### 🧠 Applied Machine Learning & Computer Vision
 
 <details>
@@ -242,7 +238,7 @@ Recognized for contributions in the paper "**Advanced UVM-Based Chip Verificatio
 
 </details>
 
-
+---
 
 ## 🛠️ Technical Skills
 
@@ -286,36 +282,59 @@ Supervised Learning, Neural Networks, CNNs (YOLO), Scikit-learn, Matplotlib, Sea
 Git, Perforce, JIRA, Confluence  
 </details>
 
-
+---
 
 ## 🧾 Certifications
 
-- 🎓 **High-Level Synthesis for FPGA, Logic Design with Vitis-HLS**  
-  *Udemy, 2024* | [Combinational Circuits Certificate](#) | [Sequential Circuits Certificate](#)  
-  - Gained expertise in designing, debugging, and implementing combinational and sequential circuits on FPGAs using C++.
-  - Utilized Xilinx Vitis-HLS and Vivado to generate RTL IPs, develop C-based testbenches, and simulate designs for functional verification.
+<details>
+<summary><strong>🎓 High-Level Synthesis for FPGA, Logic Design with Vitis-HLS</strong></summary>
 
-- 🤖 **Neural Networks and Deep Learning**  
-  *DeepLearning.AI on Coursera, Sept 2020* | [Certificate](#)  
-  - Covered deep learning fundamentals, artificial neural networks, backpropagation, and network architectures.
+*Udemy, 2024* | [Combinational Circuits Certificate](#) | [Sequential Circuits Certificate](#)  
+- Gained expertise in designing, debugging, and implementing combinational and sequential circuits on FPGAs using C++.  
+- Utilized Xilinx Vitis-HLS and Vivado to generate RTL IPs, develop C-based testbenches, and simulate designs for functional verification.  
 
-- 📊 **Data Science with Python**  
-  *Quantum.ai, Bangladesh, June 2021* | [Certificate](#)  
-  - Explored Python programming, statistics, web scraping, data preprocessing, analysis, and supervised machine learning.
+</details>
 
+<details>
+<summary><strong>🤖 Neural Networks and Deep Learning</strong></summary>
+
+*DeepLearning.AI on Coursera, Sept 2020* | [Certificate](#)  
+- Covered deep learning fundamentals, artificial neural networks, backpropagation, and network architectures.  
+
+</details>
+
+<details>
+<summary><strong>📊 Data Science with Python</strong></summary>
+
+*Quantum.ai, Bangladesh, June 2021* | [Certificate](#)  
+- Explored Python programming, statistics, web scraping, data preprocessing, analysis, and supervised machine learning.  
+
+</details>
+
+
+---
 
 ## 👨‍🏫 Mentorship & Training
 
-- 🧑‍🏫 **Instructor – VLSI Training Academy**  
-  *United International University, Dhaka, Bangladesh*  
-  - Conducted training on HDL, SystemVerilog, and Verilog.
-  - Taught RTL design flow covering synthesis, simulation, and verification.
-  - Guided students in testbench development and adoption of industry-standard VLSI methodologies.
+<details>
+<summary><strong>🧑‍🏫 Instructor – VLSI Training Academy</strong></summary>
 
-- 🛠️ **Technical Recruitment & Training**  
-  *Ulkasemi Private Limited, Dhaka, Bangladesh*  
-  - Developed recruitment assessments and led technical interviews on SystemVerilog, RTL design, and VLSI fundamentals.
-  - Conducted structured onboarding sessions covering HDL, testbench development, and verification flows.
+*United International University, Dhaka, Bangladesh*  
+- Conducted training on HDL, SystemVerilog, and Verilog.  
+- Taught RTL design flow covering synthesis, simulation, and verification.  
+- Guided students in testbench development and adoption of industry-standard VLSI methodologies.  
+
+</details>
+
+<details>
+<summary><strong>🛠️ Technical Recruitment & Training</strong></summary>
+
+*Ulkasemi Private Limited, Dhaka, Bangladesh*  
+- Developed recruitment assessments and led technical interviews on SystemVerilog, RTL design, and VLSI fundamentals.  
+- Conducted structured onboarding sessions covering HDL, testbench development, and verification flows.  
+
+</details>
+
 
 ---
 
