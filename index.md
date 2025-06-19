@@ -20,6 +20,7 @@
 <details>
 <summary><strong>📘 Relevant Coursework & Grades</strong></summary>
 
+  
 - VLSI I & Lab – A+, A+ (4.00)  
 - VLSI II & Lab – A+, A+ (4.00)  
 - Computer Architecture – A+ (4.00)  
@@ -29,7 +30,9 @@
 - Analog Integrated Circuit – A (3.75)  
 - Project & Thesis – A+ (4.00)  
 
+
 </details>
+
 
 ---
 
