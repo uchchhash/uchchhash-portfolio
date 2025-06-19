@@ -410,9 +410,9 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 ## 🌐 Language Proficiency
 
-- **IELTS (Dec 01, 2024)**  
-  🟢 **Overall Band Score:** 7.5  
-  📖 **Reading:** 8 🎧 **Listening:** 8 ✍️ **Writing:** 7 🗣️ **Speaking:** 6.5
+**IELTS (Dec 01, 2024)**  
+🟢 **Overall Band Score:** 7.5  
+📖 **Reading:** 8 🎧 **Listening:** 8 ✍️ **Writing:** 7 🗣️ **Speaking:** 6.5
 
 
 
