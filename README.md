@@ -66,7 +66,9 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Implemented key initialization steps, including power-up, clock setup, CSR configuration, and PHY initialization.  
 - Analyzed specifications to determine correct sequences for lane repair, impedance calibration, and training.  
 - Debugged and resolved design issues through collaboration with designers.  
+
 **Result:** Successfully implemented PHY initialization sequences, resolved critical bugs, and progressed to advanced training sequences as part of the ongoing project.
+
 
 #### ✅ Functional Coverage Checkers Development for LPDDR54x  
 **Organization:** Synopsys Inc | 📅 Duration: Apr 2024 – Present  
@@ -76,7 +78,9 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Developed a modular architecture using macros to support incremental updates and compatibility across DDR/LPDDR IPs, including LPDDR6.
 - Designed targeted negative test cases to ensure accurate detection of illegal conditions and enhance protocol compliance validation.
 - Currently working on extending coverage for additional scenarios as part of the ongoing project.
+
 **Result:** Delivered a scalable and reusable coverage checker, significantly improving verification efficiency for multiple DDR/LPDDR designs.
+
 
 #### ✅ Functional Verification of OTP and Clock/Reset Modules in a USB PD Controller  
 **Organization:** Texas Instruments
@@ -85,7 +89,9 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Verified OTP operations, including read, burn, and standby, achieving comprehensive functional coverage.
 - Developed UVM testbench components and implemented SystemVerilog assertions for critical timing and state transitions.
 - Debugged clock/reset sequences for power-on reset (POR) and soft reset functionality, resolving design issues collaboratively with the design team.
+
 **Result:** Verified OTP and clock/reset functionalities, resolved design bugs, and achieved 100% functional coverage.
+
 
 #### ✅ Functional Verification of Standard Bus Protocol IPs (APB, AHB, AXI, I2C, SPI, UART)  
 **Organization:** Ulkasemi Internal 
@@ -94,6 +100,7 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Extracted design features from specifications and developed testbenches with protocol-specific agents, BFMs (drivers/monitors), test cases, assertions, and coverage plans.
 - Implemented constrained random testing and developed corner-case scenarios to validate all functional aspects.
 - Verified protocol sequences using SystemVerilog assertions for robustness and compliance.
+  
 **Result:** Achieved 100% functional and code coverage, ensuring thorough protocol verification and compliance with design specifications.
 
 ---
@@ -107,7 +114,9 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Developed RTL for AHB slave and APB master using Verilog, with control FSMs and asynchronous dual-clock FIFOs for CDC (400 MHz ↔ 100 MHz).
 - Built a UVM-based testbench with reusable agents, sequencers, monitors, and config classes.
 - Created directed and randomized tests for protocol correctness, invalid accesses, and transfer edge cases.
+
 **Result:** Verified protocol conversion and CDC logic via simulation; achieved full code and functional coverage.. Synthesis and timing closure were not within the scope of this project.
+
 
 #### ✅ RTL Design and Functional Verification of Foundational Digital Modules (Traffic Light Controller, 4-bit Binary Counter and Universal Shift Register)
 **Organization:** Ulkasemi Internal 
@@ -115,6 +124,7 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 **Contributions:**
 - Designed synthesizable RTL for a binary counter, shift register, and FSM-based traffic light controller.
 - Built modular testbenches with reusable components; verified functionality using directed and randomized tests with full coverage.
+
 **Result:** Completed RTL design and functional verification of all modules, reinforcing skills in FSM design, RTL coding, and SV-based verification.
 
 ---
@@ -128,7 +138,9 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Built discrete mixed-signal (DMS) models for blocks such as PLL, PMIC, and data converters using Real-Number Modeling (RNM) and User-Defined Nettypes (UDN).
 - Validated analog models against schematics using Verilog-AMS testbenches to ensure functional accuracy.
 - Integrated DMS models into a UVM-based testbench for seamless analog-digital verification.
+
 **Result:** Delivered validated DMS models and reduced simulation time by 90%, enabling efficient co-simulation and verification. Recognized for contributions in the paper "**Advanced UVM-Based Chip Verification Methodologies with Full Analog Functionality.**"
+
 
 #### ✅ Behavioral Modeling and AMS Verification of SoC Subsystems  
 **Organizations:** SigmaSense, ETA Wireless 
@@ -136,7 +148,8 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 **Contributions:**
 - Developed behavioral models for a wide range of analog components—including Power-on Reset (POR), Thermal Shutdown Detect (TSD), Ultra-Low Voltage Detect (UVLO), Bias Circuits, LDO, Bandgap Reference (BGR), Data Converters, Oscillators, and Clock Generators using SystemVerilog RNM and Verilog-AMS.
 - Created self-checking Verilog-AMS testbenches to validate model behavior against design specifications and schematic functionality.
-- Verified power-up sequences and ensured functional accuracy through mixed-signal co-simulation, enabling seamless SoC subsystem integration
+- Verified power-up sequences and ensured functional accuracy through mixed-signal co-simulation, enabling seamless SoC subsystem integration.
+  
 **Result:** Delivered validated RNM models, Verilog-AMS testbenches, and verified schematics, ensuring accurate digital-analog integration, improved AMS verification coverage, and significantly reduced simulation time.
 
 ---
@@ -150,6 +163,7 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Trained and optimized a YOLOv4-based deep learning model to detect individuals in video streams.
 - Integrated the detection system into a web-based interface for real-time visualization of crowd density.
 - Implemented a pipeline for data acquisition, model inference, and user-facing visualization to support social distancing.
+  
 **Result:** Delivered a fully functional prototype combining deep learning, computer vision, and full-stack web integration, gaining hands-on experience in end-to-end AI system deployment.
 
 
@@ -160,8 +174,73 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Preprocessed and analyzed datasets (bike sharing, Titanic) using Pandas and Seaborn.
 - Built regression and classification models (Linear/Logistic Regression, Random Forest, KNN) with Scikit-learn.
 - Evaluated performance with RMSE, R², Accuracy, and visualized model behavior.
+  
 **Result:** Developed validated ML models and demonstrated end-to-end workflows from data processing to evaluation. 
 
+
+## 🛠️ Technical Skills
+
+- **Functional Verification:**  
+  Constraint Random Testbenches, Coverage-Driven Verification, Assertion-Based Verification (ABV), Co-Simulation, Gate-Level Simulation (GLS), Behavioral & Real-Number Modeling (RNM), Mixed-Signal Verification  
+
+- **RTL Design:**  
+  FSM Design, Sequential & Combinational Logic Design, High-Level Synthesis (HLS)  
+
+- **EDA Tools:**  
+  Cadence (Xcelium, Virtuoso, IMC, vManager), Synopsys (Verdi, VCS), Xilinx (Vivado, Vitis-HLS)  
+
+- **Protocols & Interfaces:**  
+  AMBA (APB, AHB, AXI), SPI, I2C, UART, DFI, DDR, HBM4 PHY  
+
+- **Hardware Description Languages:**  
+  Verilog, SystemVerilog, SystemVerilog Assertions (SVA), Verilog-AMS, UVM  
+
+- **Programming & Scripting:**  
+  C++, Python, Bash  
+
+- **Machine Learning & Computer Vision:**  
+  Supervised Learning, Neural Networks, CNNs (YOLO), Scikit-learn, Matplotlib, Seaborn  
+
+- **Version Control & Collaboration:**  
+  Git, Perforce, JIRA, Confluence
+
+
+## 🧾 Certifications
+
+- 🎓 **High-Level Synthesis for FPGA, Logic Design with Vitis-HLS**  
+  *Udemy, 2024* | [Combinational Circuits Certificate](#) | [Sequential Circuits Certificate](#)  
+  - Gained expertise in designing, debugging, and implementing combinational and sequential circuits on FPGAs using C++.
+  - Utilized Xilinx Vitis-HLS and Vivado to generate RTL IPs, develop C-based testbenches, and simulate designs for functional verification.
+
+- 🤖 **Neural Networks and Deep Learning**  
+  *DeepLearning.AI on Coursera, Sept 2020* | [Certificate](#)  
+  - Covered deep learning fundamentals, artificial neural networks, backpropagation, and network architectures.
+
+- 📊 **Data Science with Python**  
+  *Quantum.ai, Bangladesh, June 2021* | [Certificate](#)  
+  - Explored Python programming, statistics, web scraping, data preprocessing, analysis, and supervised machine learning.
+
+
+## 👨‍🏫 Mentorship & Training
+
+- 🧑‍🏫 **Instructor – VLSI Training Academy**  
+  *United International University, Dhaka, Bangladesh*  
+  - Conducted training on HDL, SystemVerilog, and Verilog.
+  - Taught RTL design flow covering synthesis, simulation, and verification.
+  - Guided students in testbench development and adoption of industry-standard VLSI methodologies.
+
+- 🛠️ **Technical Recruitment & Training**  
+  *Ulkasemi Private Limited, Dhaka, Bangladesh*  
+  - Developed recruitment assessments and led technical interviews on SystemVerilog, RTL design, and VLSI fundamentals.
+  - Conducted structured onboarding sessions covering HDL, testbench development, and verification flows.
+
+---
+
+## 🌐 Language Proficiency
+
+- **IELTS (Dec 01, 2024)**  
+  🟢 **Overall Band Score:** 7.5  
+  📖 **Reading:** 8 🎧 **Listening:** 8 ✍️ **Writing:** 7 🗣️ **Speaking:** 6.5
 
 
 
