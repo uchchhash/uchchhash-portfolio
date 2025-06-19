@@ -128,8 +128,7 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Built discrete mixed-signal (DMS) models for blocks such as PLL, PMIC, and data converters using Real-Number Modeling (RNM) and User-Defined Nettypes (UDN).
 - Validated analog models against schematics using Verilog-AMS testbenches to ensure functional accuracy.
 - Integrated DMS models into a UVM-based testbench for seamless analog-digital verification.
-**Result:** Delivered validated DMS models and reduced simulation time by 90%, enabling efficient co-simulation and verification.
-- Recognized for contributions in the paper "**Advanced UVM-Based Chip Verification Methodologies with Full Analog Functionality.**"
+**Result:** Delivered validated DMS models and reduced simulation time by 90%, enabling efficient co-simulation and verification. Recognized for contributions in the paper "**Advanced UVM-Based Chip Verification Methodologies with Full Analog Functionality.**"
 
 #### ✅ Behavioral Modeling and AMS Verification of SoC Subsystems  
 **Organizations:** SigmaSense, ETA Wireless 
@@ -151,7 +150,7 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Trained and optimized a YOLOv4-based deep learning model to detect individuals in video streams.
 - Integrated the detection system into a web-based interface for real-time visualization of crowd density.
 - Implemented a pipeline for data acquisition, model inference, and user-facing visualization to support social distancing.
-- **Result:** Delivered a fully functional prototype combining deep learning, computer vision, and full-stack web integration, gaining hands-on experience in end-to-end AI system deployment.
+**Result:** Delivered a fully functional prototype combining deep learning, computer vision, and full-stack web integration, gaining hands-on experience in end-to-end AI system deployment.
 
 
 #### 🎯 Predictive Modelling Using Supervised Learning Techniques  
@@ -161,7 +160,7 @@ Presented at the **9th IEEE International Women in Engineering (WIE) Conference 
 - Preprocessed and analyzed datasets (bike sharing, Titanic) using Pandas and Seaborn.
 - Built regression and classification models (Linear/Logistic Regression, Random Forest, KNN) with Scikit-learn.
 - Evaluated performance with RMSE, R², Accuracy, and visualized model behavior.
-- **Result:** Developed validated ML models and demonstrated end-to-end workflows from data processing to evaluation. 
+**Result:** Developed validated ML models and demonstrated end-to-end workflows from data processing to evaluation. 
 
 
 
