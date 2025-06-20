@@ -97,7 +97,6 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
-
 <sub>&nbsp;</sub>  
 
 <details>
@@ -115,6 +114,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 <details>
 <summary><strong>✅ Functional Verification of OTP and Clock/Reset Modules in a USB PD Controller</strong><br><em><strong>Organization:</strong> Texas Instruments</em><br><strong>Objective:</strong> Verify OTP operations and clock/reset functionalities in a USB Power Delivery (PD) controller to ensure compliance with design specifications.</summary>
@@ -130,6 +130,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 <details>
 <summary><strong>✅ Functional Verification of Standard Bus Protocol IPs</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Develop UVM-based environments to verify protocol-specific IPs (APB, AHB, AXI, I2C, SPI, UART).</summary>
@@ -145,6 +146,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 ### 💻 Digital Design and Functional Verification
 
@@ -163,6 +165,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 <details>
 <summary><strong>✅ RTL Design and Functional Verification of Foundational Digital Modules</strong><br><em><strong>Organization:</strong> Ulkasemi Internal</em><br><strong>Objective:</strong> Design and verify sequential digital modules using Verilog and SystemVerilog. (Traffic Light Controller, 4-bit Binary Counter, and Universal Shift Register)</summary>
@@ -177,6 +180,7 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 
 ### 🎛️ Mixed-Signal Modeling & AMS Verification
@@ -196,6 +200,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 <details>
 <summary><strong>✅ Behavioral Modeling and AMS Verification of SoC Subsystems</strong><br><em><strong>Organizations:</strong> SigmaSense, ETA Wireless</em><br><strong>Objective:</strong> To develop and verify analog IPs in a touch controller and a wireless baseband generator using Real-Number Modeling and Verilog-AMS, enabling efficient mixed-signal simulation and seamless integration in SoC subsystems.</summary>
@@ -211,6 +216,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 
 ### 🧠 Applied Machine Learning & Computer Vision
@@ -229,6 +235,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 <details>
 <summary><strong>🎯 Predictive Modelling Using Supervised Learning Techniques</strong><br><em><strong>Organization:</strong> Quantum.AI, BD</em><br><strong>Objective:</strong> Apply supervised machine learning algorithms to solve regression and classification problems using real-world datasets.</summary>
@@ -244,6 +251,7 @@ Recognized for contributions in the paper "<em>Advanced UVM-Based Chip Verificat
 
 <br> <!-- Add a visual gap -->
 </details>
+<sub>&nbsp;</sub>  
 
 
 
