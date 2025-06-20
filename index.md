@@ -98,6 +98,8 @@ Presented at the 9th IEEE International Women in Engineering (WIE) Conference on
 <br> <!-- Add a visual gap -->
 </details>
 
+<sub>&nbsp;</sub>  
+
 <details>
 <summary><strong>✅ Functional Coverage Checkers Development for LPDDR54x</strong><br><em><strong>Organization:</strong> Synopsys Inc</em><br><strong>Objective:</strong> Develop a portable functional coverage checker for LPDDR54x interfaces, ensuring protocol compliance and scalability.</summary>
 
